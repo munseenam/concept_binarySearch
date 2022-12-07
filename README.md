@@ -1,0 +1,1 @@
+test case to get the location of an element in an array using binary search.
